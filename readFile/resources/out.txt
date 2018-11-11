@@ -1,0 +1,23 @@
+************Person19/30/2016 Miss Peregrine's Home for Peculiar Children 120 90 Fantasy
+11/5/2015 Trolls 92 90 Action
+9/24/2016 The Magnificent Seven 133 126 Action
+For movie with title The Magnificent Seven average percentage is 94%
+For movie with title Miss Peregrine's Home for Peculiar Children average percentage is 75%
+For movie with title Trolls average percentage is 97%
+The average percentage for all movies is :88%
+The favourite genre is :Action
+************
+************Person211/5/2015 Trolls 92 40 Fantasy
+9/30/2016 Miss Peregrine's Home for Peculiar Children 120 90 Fantasy
+11/5/2015 Trolls 92 90 Action
+9/30/2016 Miss Peregrine's Home for Peculiar Children 127 100 Fantasy
+11/5/2015 Doctor Strange 115 110 Fantasy
+9/24/2016 The Magnificent Seven 133 126 Action
+9/24/2016 The Magnificent Seven 133 126 Action
+For movie with title The Magnificent Seven average percentage is 94%
+For movie with title Miss Peregrine's Home for Peculiar Children average percentage is 78%
+For movie with title Trolls average percentage is 43%
+For movie with title Doctor Strange average percentage is 95%
+The average percentage for all movies is :77%
+The favourite genre is :Fantasy
+************
